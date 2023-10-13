@@ -1,3 +1,5 @@
+import Home from "./page";
+
 describe("Calculator", () => {
   it("renders a calculator", () => {
     cy.visit("../app/page");
